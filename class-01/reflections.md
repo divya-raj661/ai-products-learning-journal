@@ -1,5 +1,7 @@
 Class 1 – Understanding AI Products
-Key Learnings
+
+Key Learnings:
+
 AI products are not only about technology but about solving business and customer problems.
 The focus of this course is practical application of AI.
 Product managers should think like CEOs.
